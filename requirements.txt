@@ -1,0 +1,9 @@
+﻿# Scorer requirements (as provided)
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.0,<3
+
+# ML dependencies
+scikit-learn>=1.4,<2
+lightgbm>=4.3,<5
+xgboost>=2.0,<3
